@@ -1,10 +1,10 @@
 {
-  "name": "node-ts-backend",
+  "name": "typescript-boilerplate",
   "version": "1.0.0",
-  "description": "Node.js and typescript backend setup project for blog-tube",
-  "main": "index.js",
-  "repository": "https://github.com/leoroese/blog-tube",
-  "author": "Leonardo Roese",
+  "description": "",
+  "main": "dist/index.js",
+  "repository": "https://github.com/wise-introvert/typescript-boilerplate.git",
+  "author": "Fardeen Panjwani",
   "license": "MIT",
   "scripts": {
     "dev": "nodemon",
