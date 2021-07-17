@@ -1,5 +1,5 @@
 import dotenv from 'dotenv-safe';
-import add from '@src/math/add';
+import add from '@src/lib/add';
 
 dotenv.config();
 
